@@ -1,6 +1,6 @@
 {
   "name": "Angelos M Reda",
-  "description": "",
+  "description": "Developer",
   "image_url": "",
   "links": [
     {
@@ -17,6 +17,41 @@
       "title": "Twitter",
       "url": "https://twitter.com/angelos_1993",
       "icon": "twitter"
+    },
+    {
+      "title": "Buy me a coffee",
+      "url": "http://bit.ly/3FRuBcV",
+      "icon": "mug"
+    },
+    {
+      "title": "Instagram",
+      "url": "http://bit.ly/3WkjGQh",
+      "icon": "instagram"
+    },
+    {
+      "title": "Medium",
+      "url": "http://bit.ly/3I1ZYnV",
+      "icon": "medium"
+    },
+    {
+      "title": "Youtube",
+      "url": "http://bit.ly/3Gek9h3",
+      "icon": "youtube"
+    },
+    {
+      "title": "Side Project",
+      "url": "http://bit.ly/3hNX2AK",
+      "icon": "link"
+    },
+    {
+      "title": "LeetCode",
+      "url": "http://bit.ly/3hSebcj",
+      "icon": "click"
+    },
+    {
+      "title": "Spotify",
+      "url": "http://bit.ly/3BZcxfT",
+      "icon": "spotify"
     }
   ]
 }
